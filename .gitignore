@@ -1,0 +1,15 @@
+# Virtual environment
+de_etl/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables file
+.env
+
+# Log files
+spotify_etl.log
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
